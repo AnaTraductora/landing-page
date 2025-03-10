@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ana Acosta</title>
-    <link>http://anatraductora.netlify.app/</link>
+    <link>https://AnaTraductora.github.io/landing-page/</link>
     <description>Recent content on Ana Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://anatraductora.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://AnaTraductora.github.io/landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://anatraductora.netlify.app/about/</link>
+      <link>https://AnaTraductora.github.io/landing-page/about/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://anatraductora.netlify.app/about/</guid>
+      <guid>https://AnaTraductora.github.io/landing-page/about/</guid>
       <description>Who is Ana Acosta</description>
     </item>
     

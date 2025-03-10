@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://anatraductora.netlify.app/es/</loc>
+    <loc>https://AnaTraductora.github.io/landing-page/es/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://anatraductora.netlify.app/"
+                href="https://AnaTraductora.github.io/landing-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://anatraductora.netlify.app/es/"
+                href="https://AnaTraductora.github.io/landing-page/es/"
                 />
   </url><url>
-    <loc>http://anatraductora.netlify.app/es/about/</loc>
+    <loc>https://AnaTraductora.github.io/landing-page/es/about/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://anatraductora.netlify.app/about/"
+                href="https://AnaTraductora.github.io/landing-page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://anatraductora.netlify.app/es/about/"
+                href="https://AnaTraductora.github.io/landing-page/es/about/"
                 />
   </url><url>
-    <loc>http://anatraductora.netlify.app/es/categories/</loc>
+    <loc>https://AnaTraductora.github.io/landing-page/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://anatraductora.netlify.app/categories/"
+                href="https://AnaTraductora.github.io/landing-page/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://anatraductora.netlify.app/es/categories/"
+                href="https://AnaTraductora.github.io/landing-page/es/categories/"
                 />
   </url><url>
-    <loc>http://anatraductora.netlify.app/es/tags/</loc>
+    <loc>https://AnaTraductora.github.io/landing-page/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://anatraductora.netlify.app/tags/"
+                href="https://AnaTraductora.github.io/landing-page/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://anatraductora.netlify.app/es/tags/"
+                href="https://AnaTraductora.github.io/landing-page/es/tags/"
                 />
   </url>
 </urlset>
