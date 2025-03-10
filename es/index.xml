@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ana Acosta</title>
+    <link>http://anatraductora.netlify.app/es/</link>
+    <description>Recent content on Ana Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://anatraductora.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mí</title>
+      <link>http://anatraductora.netlify.app/es/about/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://anatraductora.netlify.app/es/about/</guid>
+      <description>Quién es Ana Acosta</description>
+    </item>
+    
+  </channel>
+</rss>
