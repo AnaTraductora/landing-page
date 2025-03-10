@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AnaTraductora.github.io/landing-page/about/</loc>
+    <loc>https://AnaTraductora.github.io/about/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://AnaTraductora.github.io/landing-page/es/about/"
+                href="https://AnaTraductora.github.io/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AnaTraductora.github.io/landing-page/about/"
+                href="https://AnaTraductora.github.io/about/"
                 />
   </url><url>
-    <loc>https://AnaTraductora.github.io/landing-page/</loc>
+    <loc>https://AnaTraductora.github.io/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://AnaTraductora.github.io/landing-page/es/"
+                href="https://AnaTraductora.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AnaTraductora.github.io/landing-page/"
+                href="https://AnaTraductora.github.io/"
                 />
   </url><url>
-    <loc>https://AnaTraductora.github.io/landing-page/categories/</loc>
+    <loc>https://AnaTraductora.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://AnaTraductora.github.io/landing-page/es/categories/"
+                href="https://AnaTraductora.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AnaTraductora.github.io/landing-page/categories/"
+                href="https://AnaTraductora.github.io/categories/"
                 />
   </url><url>
-    <loc>https://AnaTraductora.github.io/landing-page/tags/</loc>
+    <loc>https://AnaTraductora.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://AnaTraductora.github.io/landing-page/es/tags/"
+                href="https://AnaTraductora.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AnaTraductora.github.io/landing-page/tags/"
+                href="https://AnaTraductora.github.io/tags/"
                 />
   </url>
 </urlset>
